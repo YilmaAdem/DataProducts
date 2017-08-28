@@ -1,4 +1,4 @@
-# This app was developed to help people retrieve information about midwest population from [R]
+# This app was developed to help people retrieve information about tooth growth [R]
 
 library(shiny)
 library(ggplot2)
